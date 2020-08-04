@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.polyteh-arma2020.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. Политех "Армия-2020"</name>
+    <name>Политех "Армия-2020"</name>
 
     <description>
         Приложение для посетителей стенда Политехнического Университета на выставке Армия-2020
